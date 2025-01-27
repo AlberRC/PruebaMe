@@ -35,5 +35,5 @@ public class E100__ConstanteKaprekar {
             }
             System.out.println(cantidadVueltas);
         }
-    } //hola
+    }
 }
